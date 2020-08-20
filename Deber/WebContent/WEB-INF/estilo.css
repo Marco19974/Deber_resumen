@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+.titulo{
+	tex-aling:center;
+	background:red;
+}
+.texto{
+	tex-aling: center;
+}
+.centrado{text-align:center;border:1px dotted #000; padding:8px;}
+		div{width:50%;border:1px dotted #f00;padding:8px;margin:auto;}
+		center{margin:16px 0;}
